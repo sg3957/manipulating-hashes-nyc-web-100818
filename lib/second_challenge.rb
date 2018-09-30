@@ -13,5 +13,5 @@ def second_challenge
   # flat_arr << groceries[meat].values
   # flat_arr << groceries[grains].values
   # flat_arr
-groceries.values
+groceries.values.flatten
 end
